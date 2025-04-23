@@ -24,7 +24,11 @@ This is a basic stack data structure implemented in C using a modular approach. 
    just run the command
    make
 
-2. **For Clean Up**
+2. **Run the project:**
+   run the command
+   ./stack_app
+   
+3. **For Clean Up**
     just run the command
     make clean
 
