@@ -1,0 +1,29 @@
+# Build output directories
+/bin/
+/obj/
+
+# Executable files
+*.out
+*.exe
+
+# Temporary files from editors or IDEs
+.vscode/
+*.swp
+*.swo
+*~
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Log files
+*.log
+
+# Backup files
+*~
+
+# Makefile dependencies
+*.d
+
+# Compiled object files
+*.o
